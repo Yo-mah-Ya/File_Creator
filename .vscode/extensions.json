@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "christian-kohler.path-intellisense",
+    "editorconfig.editorconfig",
+    "shardulm94.trailing-spaces",
+    "wix.vscode-import-cost"
+  ]
+}
