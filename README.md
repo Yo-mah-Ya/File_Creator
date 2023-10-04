@@ -8,7 +8,7 @@ Create virtual environment which means that you create .venv folder under the pr
 
 ```shell
 poetry config --list
-poetry config virtualenvs.in-project true
+poetry config --local virtualenvs.in-project true
 ```
 
 check virtual environment is activated
