@@ -7,7 +7,7 @@
 Create virtual environment which means that you create .venv folder under the project directory.
 
 ```shell
-poetry config --list
+poetry config --local --list
 poetry config --local virtualenvs.in-project true
 ```
 
